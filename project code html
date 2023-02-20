@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Dweep</title>
+    <link rel="stylesheet" href="project.css"/>
+    
+</head>
+<body>
+    <div class="container" style="border-color:black;">
+        <div class="headerContainer">
+        <div class="left" style="border-top:-40px;">
+            
+            <h1 style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; margin-left: 136px; margin-top: 86px;">
+                
+                An inspiring design delivered to
+                <br> your inbox every morning
+                </h1>
+                <p style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;margin-left: 136px">
+                    Our team scouts the internet for the best designs, 
+                    <br>illustrations  and art and delivers a truly inspiring 
+                    <br>one every day to your inbox 
+                  
+ 
+                </p>
+                  <img src="photo.jpg" style="float: right; position: relative; top: -200px; margin-right: 250px;" height="320">
+                <b style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;margin-left: 136px">
+                Show me how it look</b>
+        <div class ="form" style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;margin-left: 136px">
+                <input type ="text"/>
+                <button style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: #000;">Register now</button>
+        </div>
+        <b style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;margin-left: 136px">free-No spam- No data sharing</b>   
+        <div>
+<br><br>
+    
+    <div class="footercontainer">
+        
+
+        <div class="ftleft">
+            <p style="margin: 20px; color: white; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;margin-left: 136px;font-size: 20px; line-height: 32px;margin-top: 55px;" class="cat">
+            Prompt generator
+        <br>Dweep Daily
+        <br>All contibutors
+        <br>Your data on dweep.io
+        <br>Contribute to dweep 
+        <p style=" margin: 20px; color: white; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;margin-left: 136px;font-size: 20px; line-height: 25px; text-align: right; position: relative; top: -182px;margin-right: 193px;" class="cat">
+          Dweep.io <br>
+         Made with love in India<br>
+        <img src="linkedin.jpg" alt="linkedin" height="19.71px" width="21.14px">
+        <img src="inst.jpg" alt="inst" height="20.57px" width="22.05px"><br>
+        <br>
+        hello@dweep.io 
+        </p>
+
+        </div>
+        
+        <!-- </p>
+        <div class="ftright">4</div>
+
+    
+    
+     
+
+     </p> 
+     </div> -->
+         
+         
+
+
+</body>
+</html>
