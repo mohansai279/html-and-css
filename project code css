@@ -1,0 +1,53 @@
+.headerContainer{
+ /* display: flex; */
+ background-color: #FFCD9E;
+}
+.left
+{
+
+    height: 850px;
+    width :592 px;
+    top: 1px;
+    border:5px solid;
+    border-bottom: -1500px;
+
+}
+ /* .right
+    height:300px;
+    width:400px;
+    border:1px solid;
+     */
+/* 
+.form{
+    display:flex;
+
+} */
+.footercontainer{
+    /* display: flex; */
+}
+
+.ftleft{
+    background-color: black;
+    height:298px;
+    width: 1510px;
+    top: 592px;
+    border:1px solid;
+    position:relative;
+    top: 200px;
+    
+}
+/* /* .ftright{
+    height:200px;
+    width:800px;
+    border:1px solid;
+     
+} */
+/* .image{
+    height: 442.45px;// this is an error occured in the project
+    width: 393.52px;
+    position: relative;
+    top: -200px;
+    left: -91.87px;
+
+
+} */
